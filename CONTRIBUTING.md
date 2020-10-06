@@ -1,10 +1,7 @@
-<div>
-  <h1>
-    HEllo world man</h1>
-  </h1>
-  </div>
-<div>
-  <h1>
-    contributing for opensource</h1>
-  </h1>
-  </div>
+# Contributors File
+
+Add your name and GitHub profile below!
+
+## Contributors
+
+[Eric Bryant](https://github.com/shmickle/)
