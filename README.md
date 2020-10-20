@@ -13,7 +13,7 @@ Welcome to GitHub—where millions of developers work together on software. Read
 
 ## Rename this repository to publish your site
 
-We've already set-up a GitHub Pages website for you, based on your username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
+We've already set-up a GitHub Pages website for you, based on your username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
 
 
 ![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
