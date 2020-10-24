@@ -34,7 +34,7 @@ With each commit, you have the opportunity to write a **commit message**, a shor
 
 ## Practice: Customize your first GitHub website by writing HTML code
 
-Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
+--> Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can     always build on your introduction later.
 
 Let’s start with this template:
 
@@ -53,7 +53,7 @@ Delete this placeholder line:
 <p>Welcome to your first GitHub Pages website!</p>
 ```
 
-Then, paste the template to line 15 and fill in the blanks.
+Then, Paste the template to line 15 and fill in the Blanks.
 
 <img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
 
